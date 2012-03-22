@@ -1,0 +1,29 @@
+#WDOguilds{
+background:url('WDOGuilds.png') no-repeat #ffffff;
+height:100%;
+width:100%;
+}
+#WDOheader {
+color:#0000ff;
+height:175px;
+}
+#WDOtitle {
+font-weight:bold;
+padding-bottom: 15px;
+padding-top: 15px;
+}
+#WDOmain {
+padding-top: 10px;
+padding-bottom: 15px;
+}
+#wdotextarea{
+width:300px !important;
+min-width:300px !important;
+max-width:300px !important;
+height:100px !important;
+min-height:100px !important;
+max-height:100px !important;
+} 
+label span {
+float: left;
+}
